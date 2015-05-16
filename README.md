@@ -8,3 +8,5 @@ Members are:
 Wiezman Kimchi
 Josh Miller
 Mark Guszzman
+
+The CMS project plan -- http://www.elated.com/articles/cms-in-an-afternoon-php-mysql/#step5
